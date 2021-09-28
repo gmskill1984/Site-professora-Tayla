@@ -8,7 +8,7 @@ require 'init.php';
 
 /*
    $username = "3347591_tayla";
- $password = "Miguelevivian@12";
+ $password = "XXXXXXX";
 $conn= null;
 try {
   $conn = new PDO('mysql:host=fdb18.awardspace.net;dbname=3347591_tayla', $username, $password);
